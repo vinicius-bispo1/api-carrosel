@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.rec .rec-arrow-left{
+    background-color: aqua;
+}
+/* .rec .rec-pagination{
+   
+} */
+
+.rec .rec-dot{
+background-color: brown;
+}
+.rec .rec-item-wrapper{
+    background-color: blue;
+}
+
+.box{
+    border: solid 1px red;
+    
+}
